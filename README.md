@@ -1,1 +1,1 @@
-# NotFightClubCodejam
+https://SiarheiKazakevich.github.io/NotFightClubCodejam/
